@@ -1,0 +1,10 @@
+{
+  "name": "myExtension",
+  "description": "我的第一个MakeCode扩展",
+  "dependencies": {},
+  "files": [
+    "main.ts"
+  ],
+  "public": true,
+  "supportedTargets": ["microbit"]
+}
